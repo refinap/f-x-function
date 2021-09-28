@@ -1,7 +1,7 @@
 """
-ATC, 16 September 2021
 Refin Ananda Putra
-2040211129
+github.com/refinap
+
 """
 
 #create network 
